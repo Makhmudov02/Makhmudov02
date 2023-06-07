@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **t.me/IamanError or a.makhmudov.w@gmail.com**
+- 📫 How to reach me **https://t.me/IamanError or a.makhmudov.w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
